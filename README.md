@@ -17,7 +17,7 @@ In this notebook:
 
 A simple CNN with every convolution layer followed by a pooling layer, ends up with a 256-unit dense layer and a softmax.
 
-![img](/home/truongphatuit/Desktop/Knowledge-Distillation-CNN/img/teacher-model.png)
+![img](/img/teacher-model.png)
 
 
 
@@ -25,7 +25,7 @@ A simple CNN with every convolution layer followed by a pooling layer, ends up w
 
 A minimal vanilla neural network with 1 64-unit hidden layer followed by a softmax. This model is used for both student model and standalone one.
 
-![img](/home/truongphatuit/Desktop/Knowledge-Distillation-CNN/img/student-.png)
+![img](/img/student-model.png)
 
 # Result
 
