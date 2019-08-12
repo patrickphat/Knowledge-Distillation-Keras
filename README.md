@@ -28,6 +28,7 @@ A minimal vanilla neural network with 1 64-unit hidden layer followed by a softm
 ![img](/img/student-model.png)
 
 # Result
+The result might be differ for those who want to reproduce this notebook, as I couldn't find a way to maintain the random seed in Keras! :D 
 
 | Model            | Test Accuracy | no. Parameters | training speed (per sample) | Epochs |
 | ---------------- | ------------- | -------------- | --------------------------- | ------ |
